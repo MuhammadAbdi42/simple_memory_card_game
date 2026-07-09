@@ -12,7 +12,7 @@ A basic memory card-matching game built in Unity. The goal is to flip cards and 
 - ⏳ No time limits – play at your own pace
 
 #### 🚀 How to Play
-You can play it by either online with the WebGL build [here](https://muhammadabdi42.github.io/Simple-Memory-Card-Game) or you can download for Windows through the [releases](https://github.com/MuhammadAbdi42/Simple-Memory-Card-Game/releases).
+You can play it by either online with the WebGL build [here](https://muhammadabdi42.github.io/simple-memory-card-game) or you can download for Windows through the [releases](https://github.com/MuhammadAbdi42/Simple-Memory-Card-Game/releases).
 
 #### 🤝 Contributing
 Pull requests are welcome. Feel free to submit bug reports or feature suggestions via Issues.
